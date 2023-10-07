@@ -1,0 +1,30 @@
+.profile{
+    position: absolute;
+    top: 10rem;
+    left: 20rem;
+}
+.detail{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.left{
+    margin-right: 50px;
+}
+.buttons{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.individual{
+    display: flex;
+}
+.individual p{
+    margin-right: 5px;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    
+}

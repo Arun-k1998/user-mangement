@@ -1,0 +1,38 @@
+.updateFormWrapper{
+    padding-left: 40%;
+    padding-top:10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.SignUpForm {
+    width: 100%;
+  }
+  
+  .SignUp-input {
+    outline: none;
+    background: none;
+    border: 1px solid #8758ff;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    width: 300px;
+    color: #050505;
+  }
+  
+  .SignUp-input::placeholder {
+    color: #0202024d;
+  }
+  
+  .SignUp-btn {
+    background: #8758ff;
+    color: #fff;
+    border: none;
+    padding: 0.55rem;
+    cursor: pointer;
+    width: 100px;
+    position: relative;
+    left: 90px;
+    border-radius: 20px;
+  }

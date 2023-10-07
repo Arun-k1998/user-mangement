@@ -1,0 +1,46 @@
+
+.SignUpWrapper {
+    background: #c1dee9;
+    margin-top: 5rem;
+    padding: 2rem;
+    border-radius: 5px;
+    position: absolute;
+    left: 40%;
+    
+  }
+  
+  .SignUpForm {
+    width: 100%;
+  }
+  
+  .SignUp-input {
+    outline: none;
+    background: none;
+    border: 1px solid #8758ff;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    width: 300px;
+    color: #050505;
+  }
+  
+  .SignUp-input::placeholder {
+    color: #0202024d;
+  }
+
+  .SignUpWrapper h1{
+    position: relative;
+    left: 20%;
+  }
+
+  
+  .SignUp-btn {
+    background: #8758ff;
+    color: #fff;
+    border: none;
+    padding: 0.55rem;
+    cursor: pointer;
+    position: relative;
+    left: 40%;
+    
+  }
